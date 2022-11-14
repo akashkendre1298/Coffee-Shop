@@ -1,0 +1,7 @@
+.width-75-em {
+  width: 75em;
+}
+.flex-center-container-for-75-em {
+  display: flex;
+  justify-content: center;
+}

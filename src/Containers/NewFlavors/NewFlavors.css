@@ -1,0 +1,31 @@
+.bashbdsabhsb {
+  width: 75em;
+}
+.flex-center-container-abc {
+  display: flex;
+  justify-content: center;
+}
+.div-on-img {
+  position: absolute;
+  display: block;
+  margin: 235px 0 0 0;
+  background-color: white;
+  height: 155px;
+  width: 300px;
+  justify-self: start;
+}
+@media (min-width: 320px) and (max-width: 425px) {
+  .div-on-img {
+    margin: 60px 0 0 0;
+    width: 50%;
+    height: 32%;
+    font-size: 14px;
+  }
+  .findus-btn-indiv-on-img {
+    margin: 0;
+  }
+  .font-medium {
+    font-size: 14px;
+    line-height: normal;
+  }
+}

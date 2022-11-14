@@ -1,0 +1,29 @@
+.text-onn-banner-img {
+  position: absolute;
+  top: 210px;
+  /* color: #fff; */
+  /* width: 600px; */
+  justify-self: center;
+  /* padding: 0 0 0 25px; */
+}
+.main-div {
+  /* margin-top: -40px; */
+}
+@media (min-width: 320px) and (max-width: 420px) {
+  .text-on-img {
+    /* font-size: 45px; */
+    /* margin: 15px;
+    font-weight: 600; */
+    display: none;
+  }
+  .para-on-img {
+    display: none;
+  }
+  .main-div {
+    width: 100%;
+  }
+  .btn-on-banner {
+    margin-top: 75px;
+    padding: 0;
+  }
+}
